@@ -32,6 +32,6 @@ jobs:
 
       - name: deploy
         env:
-          LLOneBot_GH_TOKEN: ${{ secrets.Celesphonia_GH_TOKEN }}
+          Celesphonia_GH_TOKEN: ${{ secrets.Celesphonia_GH_TOKEN }}
         run: |
              bash ./script/deploy.sh
