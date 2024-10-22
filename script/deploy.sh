@@ -1,6 +1,6 @@
 cd ..
 mkdir temp
-GITHUB_URL=https://oauth:${Celesphonia_GH_TOKEN}@github.com/LLOneBot/llonebot.github.io
+GITHUB_URL=https://oauth:${Celesphonia_GH_TOKEN}@github.com/Celesphonia/luotianyi-0712.github.io/Celesphonia/
 git clone ${GITHUB_URL} temp
 
 rm -rf temp/*
