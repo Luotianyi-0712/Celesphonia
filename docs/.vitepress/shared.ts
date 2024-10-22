@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export const shared = defineConfig({
-  title: '1234',
+  title: 'Celesphonia',
   cleanUrls: true,
   metaChunk: true,
   lastUpdated: true
