@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export const zhCN = defineConfig({
     lang: 'zh-CN',
-    description: '1234',
+    description: 'Celesphonia',
 
     themeConfig: {
         nav: nav(),
@@ -13,7 +13,7 @@ export const zhCN = defineConfig({
         },
 
         editLink: {
-            pattern: 'https://github.com/docs/:path',
+            pattern: 'https://github.com/Luotianyi-0712/Celesphonia/tree/master/docs/:path',
             text: '在 GitHub 上编辑此页面'
         },
 
