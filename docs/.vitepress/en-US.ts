@@ -16,7 +16,7 @@ export const enUS = defineConfig({
         },
 
         editLink: {
-            pattern: "https://github.com/docs/:path",
+            pattern: "n: 'https://github.com/Luotianyi-0712/Celesphonia/tree/master/:path",
             text: 'Edit this page on GitHub'
         }
     }
